@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700&display=swap');
 
 body {
-	background-color: #00ace6;
+	background-color: #001101;
 	font-family: 'Roboto', sans-serif;
 	color: #fff;
 	margin: 0;
@@ -9,13 +9,19 @@ body {
 
 .all {
 	width: 100vw;
-	height: 100vh;
+	height: 75vh;
+	padding-top: 25vh;
 }
-
 
 .item {
 	flex: 1;
 	text-align: center;
+}
+
+.profile {
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
 }
 
 .content {
