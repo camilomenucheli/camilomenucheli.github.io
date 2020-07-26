@@ -10,7 +10,6 @@ body {
 .all {
 	width: 100vw;
 	height: 100vh;
-	background-color: #f00;
 }
 
 
@@ -23,7 +22,6 @@ body {
 	display: flex;
 	justify-content: center;
 	align-content: center;
-	background-color: #555555;
 }
 
 .item {
