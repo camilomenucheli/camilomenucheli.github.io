@@ -7,6 +7,11 @@ body {
 	margin: 0;
 }
 
+a {
+	text-decoration: none;
+	color: white;
+}
+
 .all {
 	width: 100vw;
 	height: 75vh;
@@ -34,9 +39,6 @@ body {
 	margin: auto;
 }
 
-
 .social > a {
-	text-decoration: none;
-	color: white;
 	margin: 5px;
 }
