@@ -14,8 +14,11 @@ a {
 
 .all {
 	width: 100vw;
-	height: 75vh;
-	padding-top: 25vh;
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-content: center;
 }
 
 .item {
@@ -30,9 +33,7 @@ a {
 }
 
 .content {
-	display: flex;
-	justify-content: center;
-	align-content: center;
+	padding: 0 40px;
 }
 
 .item {
